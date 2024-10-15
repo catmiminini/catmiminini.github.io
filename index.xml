@@ -6,7 +6,28 @@
     <description>Recent content on Hanzc&#39;s Blog</description>
     <generator>Hugo -- 0.135.0</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Tue, 15 Oct 2024 18:31:37 +0800</lastBuildDate>
     <atom:link href="https://hanzc0106.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://hanzc0106.github.io/about/</link>
+      <pubDate>Tue, 15 Oct 2024 18:31:37 +0800</pubDate>
+      <guid>https://hanzc0106.github.io/about/</guid>
+      <description>&lt;h1 id=&#34;about&#34;&gt;About&lt;/h1&gt;
+&lt;p&gt;123123&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>https://hanzc0106.github.io/post/my-first-post/</link>
+      <pubDate>Mon, 14 Oct 2024 17:56:37 +0800</pubDate>
+      <guid>https://hanzc0106.github.io/post/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;my-first-post&#34;&gt;My First Post&lt;/h1&gt;
+&lt;h2 id=&#34;test123&#34;&gt;test123&lt;/h2&gt;
+&lt;p&gt;123123&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-js&#34; data-lang=&#34;js&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;function&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;test&lt;/span&gt; () {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#a6e22e&#34;&gt;console&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;log&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;test&amp;#39;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
   </channel>
 </rss>
